@@ -1,7 +1,7 @@
 # Project Title: Data-Driven Selection of Aircraft
 This title reflects the goal of analyzing data to assess risks and guide the decision-making process for selecting aircraft in the new aviation venture.
 # Project Overview
-For this project, I will perfom various actions including data cleaning, analysis, and visualization to generate insights for the business stakeholder.
+For this project, I will perfom various actions including data cleaning, analysis, and visualization to generate insights for the business stakeholder. This will involve use of Python language and CRISP-DM methodology.
 # Business Understanding
 The company seeks to identify the lowest-risk aircraft for purchase by considering factors such as safety records, operating costs, and customer demands, using aviation data from the National Transportation Safety Board.
 # Data Understanding & Analysis
