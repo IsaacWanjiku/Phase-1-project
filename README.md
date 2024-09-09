@@ -8,6 +8,13 @@ The company seeks to identify the lowest-risk aircraft for purchase by consideri
 Initial steps focus on gaining insights from the data, followed by analysis to support decision-making.
 Analyzed aircraft models with the fewest recorded incidents.
 
+## Data Visualization;- with a number graphs to show
+![image](https://github.com/user-attachments/assets/0bb02360-605d-4024-a189-338ddeb8af1c)
+![image](https://github.com/user-attachments/assets/946cc56a-3d7f-4b12-ac78-dadb142cf337)
+![image](https://github.com/user-attachments/assets/17ff760c-8ff1-4e1a-b469-d91db264efb8)
+![image](https://github.com/user-attachments/assets/0b7c14c8-2924-4242-a978-5ea43ca88575)
+![image](https://github.com/user-attachments/assets/33a0ea85-f7dd-49ac-8440-cb8ef11f7745)
+
 ## Tableu Data Analysis, access links:
 https://public.tableau.com/authoring/Phase1Projectdataanalysis/Dashboard1#1
 https://public.tableau.com/authoring/Phase1Projectdataanalysis/Dashboard2#1
