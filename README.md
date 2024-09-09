@@ -7,6 +7,12 @@ The company seeks to identify the lowest-risk aircraft for purchase by consideri
 # Data Understanding & Analysis
 Initial steps focus on gaining insights from the data, followed by analysis to support decision-making.
 Analyzed aircraft models with the fewest recorded incidents.
+
+## Tableu Data Analysis, access links:
+https://public.tableau.com/authoring/Phase1Projectdataanalysis/Dashboard1#1
+https://public.tableau.com/authoring/Phase1Projectdataanalysis/Dashboard2#1
+https://public.tableau.com/authoring/Phase1Projectdataanalysis/Dashboard3#1
+
 # Conclusion
 Identified aircraft models with low accident rates and strong safety records.
 Prioritized models that operate well in challenging weather conditions.
